@@ -45,6 +45,8 @@
   		<artifactId>javax.servlet-api</artifactId>
   		<version>3.1.0</version>
   	</dependency>
+	    
+  </dependencies>
 	  <distributionManagement>
 	    <repository>
 	      <id>nexus</id>
@@ -56,6 +58,6 @@
 	      <name>Idexcel Technologies Snapshot Nexus Repository </name>
 	      <url>http://35.154.1.21:8081/repository/mavenweb-snapshots/</url>
 	    </snapshotRepository>
-       </distributionManagement>    
-  </dependencies>
+       </distributionManagement>
+	
 </project>
